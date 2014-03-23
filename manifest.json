@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "KTV",
+  "version": "0.0.1",
+  "description": "Karaoke for chromecast",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
